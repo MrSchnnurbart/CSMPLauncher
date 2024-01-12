@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "csmplauncher",
   "version": "2.1.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "CSMP Launcher",
+  "description": "Minecraft Launcher pour le serveur CSMP",
+  "author": "Mr Schnnurbart (https://github.com/MrSchnnurbart/) from Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/MrSchnnurbart/CSMPLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/MrSchnnurbart/CSMPLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/MrSchnnurbart/CSMPLauncher.git"
   }
 }
